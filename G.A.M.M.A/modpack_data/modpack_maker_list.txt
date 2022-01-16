@@ -10,7 +10,6 @@ https://www.moddb.com/addons/start/215063	BEAR voice lines replacement for Duty	
 https://www.moddb.com/addons/start/210999	Exo Servo Sounds v 1.4\!Normal version	0	ESS
 https://www.moddb.com/addons/start/211741	General Fire Mode Switcher Sound	0	Fire Mode Switcher
 https://www.moddb.com/addons/start/208267	[1.1.0] Grok's Better Sound for Anomaly 1.5.1\bin	0	Grok better sound
-https://www.moddb.com/addons/start/182695	JSRS P.1 - Main Addon:JSRS P.2 - Cracks + Impacts Patch	0	JSRS
 https://www.moddb.com/addons/start/210902	0	0	Preblowout Murder
 https://www.moddb.com/addons/start/210158	PDAradioExtended	0	PDA Radio Extended
 https://www.moddb.com/addons/start/216176	Quieter Wood Breaking (might also want to make the collision (physics) sounds quieter as well)	0	Quieter Wood Boxes Breaking
@@ -35,13 +34,12 @@ https://www.moddb.com/addons/start/184227	High Res PDA Maps:Optional Campfire Ic
 https://www.moddb.com/addons/start/216034	0	0	TB Fairer Thermal Anomalies
 https://www.moddb.com/addons/start/208861	Dux's Innumerable Character Kit:Dux's Innumerable Character Kit\Dux's Innumberable Character Kit - BaS Patch	_with_BAS_patch	DICK
 https://www.moddb.com/addons/start/222685	addons\UNISG Overhaul:addons\SEVA Glass Variety	0	Fixed Vanilla Models and Textures
+https://www.moddb.com/addons/start/226174	0	0	Yohji persistant weathers
 Animations
-https://www.moddb.com/addons/start/208349	[OPTIONALS]\Vanilla Weapon Stats	0	Blindside
 https://www.moddb.com/addons/start/213263	REMADE ANIMATIONS\remade_animations.3\remade animations	0	RemadeAnimations
 https://www.moddb.com/addons/start/209819	0	0	FDDA
 https://www.moddb.com/addons/start/211277	Lower_Weapon_Sprint_v1.2.0.3	0	LowerSprintAnimaiton
 https://www.moddb.com/addons/start/217738	Camera Reanimation Project - I.N.E.R.T.I.A. V1.2	0	INERTIA
-https://www.moddb.com/addons/start/214170	Souvlaki's FAL 2.0 with EFT FOV
 Gameplay
 https://www.moddb.com/addons/start/210626	0	0	BountySquadsExtended
 https://www.moddb.com/addons/start/207498	Stealth_2.0	0	Stealth
@@ -56,6 +54,10 @@ https://www.moddb.com/addons/start/207876	0	0	Disable Burnt Fuzz
 https://www.moddb.com/addons/start/211466	main	0	Tougher important NPCs and companions
 https://www.moddb.com/addons/start/224069	Perk_Based_Artefacts_FULL	0	Perk-Based Artefacts
 https://www.moddb.com/addons/start/224948	Limited Fast Travel	0	Limited Fast Travel
+https://www.moddb.com/addons/start/225217	0	0	Companions carry weight tweak
+https://www.moddb.com/addons/start/224977	Lsz\2_Addons\21_Lsz_Ai_Tweaks	_AI_tweak	Lsz AI tweak
+https://www.moddb.com/addons/start/224977	Lsz\2_Addons\6_Lsz_Levels_Effects	_Remove_special_effects_in_maps	Lsz Levels Effects
+https://www.moddb.com/addons/start/215052	00 Dynamic_NPC_Armor_Visuals	_companions_change_armor	DNPCAV
 Stashes
 https://www.moddb.com/addons/start/214163	0		New Stashes Location
 https://www.moddb.com/addons/start/213728	0		Fixes bugged stashes
@@ -63,20 +65,22 @@ https://www.moddb.com/addons/start/200140	00. Grok's Stash Overhaul	0	Grok Stash
 https://www.moddb.com/addons/start/200140	01. TB Fix Bugged Stashes Patch	_TBFixBuggedStashes_patches	Grok Stash Overhaul TBFix
 https://www.moddb.com/addons/start/200140	OPT. No loot in unmarked stashes	 No loot in unmarked stashes	Grok Stash Overhaul No Loot
 https://www.moddb.com/addons/start/200140	OPT. No loot in unmarked stashes - BaS Patch	_BAS_NoLootInUnmarkedStashes_patches	Grok Stash Overhaul BAS
+https://www.moddb.com/addons/start/194204	0	0	Mutants Bleeding
 Gunplay
-https://www.moddb.com/addons/start/215224	0	0	Adjustable Scope View
 https://www.moddb.com/addons/start/213437	Fluid_Aim_v1.2.3	0	Fluid Aim
-https://www.moddb.com/addons/start/208349	0	0	Blindside's Weapons Reanimation and Rebalance
-https://www.moddb.com/addons/start/208349	[OPTIONALS]\Vanilla Weapon Stats	_VanillaWeaponsStats_patch	Blindside's Weapons Reanimation and Rebalance Vanilla weapons
-https://www.moddb.com/addons/start/182679	Boomsticks and Sharpsticks 28-Nov-2021_1.5.1\001. Boomsticks and Sharpsticks 28-Nov-2021	0	BoomSticks and Sharpsticks
-https://www.moddb.com/addons/start/212149	01. EFT Style Weapons Re-position:02. EFT Style Re-position [Blindside's Reanimation Pack]:03. EFT Style Re-position [AWAR v0.97]:04. EFT Style Re-position [Boomsticks&Sharpsticks]	_BAS_AWAR_BWRR_patches	EFT Style Reposition
 https://www.moddb.com/addons/start/217186	00. Main EFT reposition	0	Alternate Sights and EFT Reposition
+https://www.moddb.com/addons/start/182695	JSRS P.1 - Main Addon:JSRS P.2 - Cracks + Impacts Patch	0	JSRS
+https://www.moddb.com/addons/start/214170	Souvlaki's FAL 2.0 with EFT FOV	0	Soulvlaki's FAL
+https://www.moddb.com/addons/start/208813	awar_v0.97	0	AWAR
 https://www.moddb.com/addons/start/217186	01. EFT repos + AWAR 0.97	_EFTRepos_AWAR_patches	Alternate Sights and EFT Reposition
-https://www.moddb.com/addons/start/217186	02. EFT repos + Blindsides reanim(vanilla stats)	_EFTRepos_BWRR_patches	Alternate Sights and EFT Reposition
+https://www.moddb.com/addons/start/208349	0	0	Blindside's Weapons Reanimation and Rebalance
+https://www.moddb.com/addons/start/215224	0	0	Adjustable Scope View
+https://www.moddb.com/addons/start/217186	02. EFT repos + Blindsides reanim	_EFTRepos_BWRR_patches	Alternate Sights and EFT Reposition
+https://www.moddb.com/addons/start/217186	02. EFT repos + Blindsides reanim(vanilla stats)	_EFTRepos_BWRR_vanilla_stats_patches	Alternate Sights and EFT Reposition
+https://www.moddb.com/addons/start/208351	0	0	JSRS Blindside
+https://www.moddb.com/addons/start/182679	Boomsticks and Sharpsticks 28-Nov-2021_1.5.1\001. Boomsticks and Sharpsticks 28-Nov-2021	0	BoomSticks and Sharpsticks
 https://www.moddb.com/addons/start/217186	03. Patch Boomsticks and Sharpsticks	_BAS_patches	Alternate Sights and EFT Reposition
 https://www.moddb.com/addons/start/217186	04. Patch BaS + JSRS	_JSRS_BAS_patches	Alternate Sights and EFT Reposition
-https://www.moddb.com/addons/start/211741	General Fire Mode Switcher Sound\Compatiblity Patches\JSRS:General Fire Mode Switcher Sound\Compatiblity Patches\Blindside's Reanimation Pack - Loner:General Fire Mode Switcher Sound\Compatiblity Patches\Blindside's Reanimation Pack - Loner + JSRS Patch	_BWRR_JSRS_patches	Fire Mode Switcher
-https://www.moddb.com/addons/start/208351	0	0	JSRS Blindside
 https://www.moddb.com/addons/start/223016	2d - JSRS+Blindsides + BAS	0	Better silenced BAS shotguns
 https://www.moddb.com/addons/start/219368	MP7 Replacement	0	MP7 Replacer
 https://www.moddb.com/addons/start/210152	0	0	Abakan Replacer
@@ -87,6 +91,8 @@ https://www.moddb.com/addons/start/214696	0	0	G36Pack
 https://www.moddb.com/addons/start/214696	patch\EFT-Style Reposition Patch	_EFTRepos_patch	G36Pack patch
 https://www.moddb.com/addons/start/210939	0	0	Dragunov Replacer
 https://www.moddb.com/addons/start/210939	patches\EFT Style Weapons Re-position	_EFTRepos_patch	Dragunov Replacer patch
+https://www.moddb.com/addons/start/217186	05. Patch BAN(strogglet15) guns\00. main
+https://www.moddb.com/addons/start/211741	General Fire Mode Switcher Sound	0	Fire Mode Switcher
 https://www.moddb.com/addons/start/207973	BaS and Anomaly tacticool scopes 1.4\Anomaly Tacticool Scopes\Anomaly Tacticool Scopes:BaS and Anomaly tacticool scopes 1.4\BaS adaptation	_BAS_patch	Tacticool scopes
 https://www.moddb.com/addons/start/222743	0	0	Smaller FNX-45 dots
 https://www.moddb.com/addons/start/223008	00. Grok's Doom Weapons Inspect:OPT1. No music	0	Grok's Doom-like weapon inspection
@@ -97,6 +103,10 @@ https://www.moddb.com/addons/start/224285	Sight window cleaning	_sights_window_c
 https://www.moddb.com/addons/start/224285	EoTech reticles\Both at once (same reticle and color in both models)\Green\A - 2 dot green EoTech:Cobra reticles\Install all at once (the same reticle in all cobras)\Green\Dot:Red dots\2 - Tiny dots	_sights	BAS Scopes Extraganza
 https://www.moddb.com/addons/start/224285	2D Reticles\2D Susat\Illuminated\Valday style:2D Reticles\2D Mark 4\1- Classic:2D Reticles\2D PSOs\Without eyecup (for PSO-1M no eyecup model)\Center illuminated\PSO-1 Reticle:2D Reticles\2D March\3 - Classic:2D Reticles\2D Leupold\1 - Horseshoe with dot:2D Reticles\2D Howa\1 - Circle with cross\:2D Reticles\2D Elcan Specter\Fully illuminated:2D Reticles\2D Acog - Pre-attached on some weapons\Green\1 - Shevron:2D Reticles\2D Acog - Attachable\Green\1 - Shevron:2D Reticles\2D 1P78 Kashtan\Center illuminated:2D Reticles\2D 1P59 Giperon\Center illuminated:2D Reticles\2D 1P29 Tulip\Classic:2D Reticles\2D Gauss\Morretti SR4 (Clear):	_2D_scopes	BAS Scopes Extraganza
 https://www.moddb.com/addons/start/224285	2D Reticles Patch for Shader Based 2D Scopes	_Shader_Based_Scopes_patch
+https://www.moddb.com/addons/start/225029	UMP_Reanimation:UMP_Reanimation\[HUDFOV 0.6] EFT Repose	_with_EFT_reposition	UMP Reanimation
+https://www.moddb.com/addons/start/225738	L96 Reanimation\01 L96 Reanimation	0	L96 Reanimation
+https://www.moddb.com/addons/start/225738	L96 Reanimation\Patch - JSRS	_JSRS_patch	L96 Reanimation
+https://www.moddb.com/addons/start/226413	0	0	BAS handling sounds
 QoL
 https://www.moddb.com/addons/start/208216	Remove dropping weapons from damage	0	Remove dropping weapons from damage
 https://www.moddb.com/addons/start/208560	0	0	MCM
@@ -111,6 +121,7 @@ https://www.moddb.com/addons/start/213337	0	0	Grok Gotta Go Fast
 https://www.moddb.com/addons/start/214025	0	0	Glowsticks
 https://www.moddb.com/addons/start/214025	addons\HD Glowsticks	_HDGlowsticks	Glowsticks
 https://www.moddb.com/addons/start/214025	addons\Enhanced Shaders Patch	_EnhancedShader_patch	Glowsticks
+https://www.moddb.com/addons/start/224769	Patch Glowstick+Eft reposition	0	Glowsticks position
 https://www.moddb.com/addons/start/204482	0	0	He is with me
 https://www.moddb.com/addons/start/218478	Oni's Tales From the Zone	0	Oni's Tale Loading Screens
 https://www.moddb.com/addons/start/210450	Talk to Everyone:Suppressor Changes:More Surrenders + Faster Execute:Longer NPC Loot Range:Less NPC Jamming:Higher Wound Percent:Companions dont blow Disguises:Remove Mutant AutoAim	0	Modular Tweaks
@@ -124,6 +135,11 @@ https://www.moddb.com/addons/start/221872	0	0	Guide Tasks Fix
 https://www.moddb.com/addons/start/200007	OPT2. No Masks Only Reflections and Droplets	0	Grok's Mask Reflections - shader fix
 https://www.moddb.com/addons/start/219961	0	0	Decreased Bush Earing distance for NPC
 https://www.moddb.com/addons/start/185349	0	0	Life granter Counter
+https://www.moddb.com/addons/start/219766	Companion_Anti_Awol_v1.0.1	0	Companion anti awol
+https://www.moddb.com/addons/start/226129	Combine All Items	0	Combine all items
+https://www.moddb.com/addons/start/203251	0	0	Companions Inventory Unlock
+https://www.moddb.com/addons/start/209099	lc_bar_garbage	_Bar garbage shorter transition	Bar garbage shorter transition
+https://www.moddb.com/addons/start/208741	0	0	No more companions friendly fire
 Craft and Repair
 https://www.moddb.com/addons/start/200532	[1.2.0] Grok's Craft and Repair Overhaul\Grok's Craft and Repair Overhaul - Modular\GCRO - No recipes:[1.2.0] Grok's Craft and Repair Overhaul\Grok's Craft and Repair Overhaul - Modular\GCRO - Toolkits usable as workbench by 1917 and Michiko	0	Grok's Craft and Repair Overhaul
 https://github.com/ahuyn/anomaly-wpo/archive/refs/tags/latest.zip	anomaly-wpo-latest:anomaly-wpo-latest\unjam keybind	0	WPO
@@ -139,7 +155,6 @@ https://github.com/ahuyn/anomaly-compilation/archive/refs/tags/latest.zip	anomal
 https://github.com/ahuyn/anomaly-compilation/archive/refs/tags/latest.zip	anomaly-compilation-latest\dropit	_outfits_drop_chance	Outfit Drop Chance
 https://www.moddb.com/addons/start/218123	Luna's Master Disassembly List & Parts Fix v1.1.0 (1.5.1)\(Parts Fix Version)	0	Parts fix
 https://www.moddb.com/addons/start/217120	0	0	Smoother progression
-https://www.moddb.com/addons/start/224853	Disassemble All Items	0	Disassemble All
 Progression
 https://www.moddb.com/addons/start/209324	0	0	Cordon Early Game Tweak
 https://www.moddb.com/addons/start/218259	0	0	Configurable loot condition
@@ -149,6 +164,8 @@ https://www.moddb.com/addons/start/212447	UNISG Hollow Boundaries Fixes	0	UNISG 
 https://www.moddb.com/addons/start/220056	Starting Loadout Rebalanced\Main File for Glowsticks	_for_glowsticks	Starting Loadouts Rebalance
 https://www.moddb.com/addons/start/212930	01. Grok's No Exos in the South	0	No Exos in the South
 https://www.moddb.com/addons/start/223014	0	0	Fixed Player Thermal Res
+https://www.moddb.com/addons/start/226308	ABF\ABF\ABF ) ARX - Module 2 - Anomalies + Actor + Poltergeist:ABF\ABF\ABF ARX -- Tweaks\3. Poltergeist harder:ABF\ABF\ABF ARX -- Compatibility\Soundscape Burer Compatibility	0	ABF
+https://www.moddb.com/addons/start/224703	1A)   ARX  - module - Focus Spawn tiers	0	ARX
 UI
 https://www.moddb.com/addons/start/223408	00. Crook's Faction Identification UI:OPT01. Small Patches Display:OPT02. Grok's Body Health System patch	0	Crook's Identification UI
 https://www.moddb.com/addons/start/214124	Hunger_thirst_sleep_UI_0.6\00. UI Main	0	Hunger Thirst Sleep UI
@@ -166,6 +183,7 @@ https://www.moddb.com/addons/start/203831	0	0	BatteryWarning
 https://www.moddb.com/addons/start/203787	0	0	Encyclopedia Messages Restored
 https://www.moddb.com/addons/start/212938	0	0	Minimap Toggle
 https://www.moddb.com/addons/start/222680	Free_Zoom	0	Free Zoom
+https://www.moddb.com/addons/start/226172	CrimsonVirus_OCD_fixes_v1.8\Encyclopedia_ui_fixes
 High Priority
 https://www.moddb.com/addons/start/209945	00. Grok's Ballistics Overhaul	0	GBOOBS
 https://www.moddb.com/addons/start/209945	GBOOBS Vanilla Ammo Icons Patch	_Vanilla_ammo_icons_patch	GBOOBS vanilla ammo
@@ -187,7 +205,6 @@ https://www.moddb.com/addons/start/219570	More drops from drugs_DLTX	_more_drops
 https://www.moddb.com/addons/start/219570	Rats_are_not_enemies_DLTX	_rats_are_not_ennemies	DLTX Minimodpack
 https://www.moddb.com/addons/start/219570	STORYLINES_DLTX	_additionnal_storylines	DLTX Minimodpack
 https://www.moddb.com/addons/start/219570	The_G36_Pack NPC Files_DLTX	_g36_pack_npc_loadouts	DLTX Minimodpack
-https://www.moddb.com/addons/start/219570	AWAR_DLTX:AWAR_DLTX_Patch_SouvlakisFal	_with_SouvlakiFal_patch	DLTX Minimodpack
 https://www.moddb.com/addons/start/219570	Toolkit Remap_DLTX	_toolkit_remap	DLTX Minimodpack
 Optional
 https://www.moddb.com/addons/start/218608	NahMusic	_Nah_music	Disables Music in game but not in main menu
@@ -200,7 +217,7 @@ https://www.moddb.com/addons/start/211159	NPC Loot Claim - Main	0	NPC Loot Claim
 https://www.moddb.com/addons/start/224324	0	0	Trader Destockifier
 https://www.moddb.com/addons/start/184490	Trader Overhaul (Main Folder)	0	Trader Overhaul
 https://www.moddb.com/addons/start/224947	eft reposition patch:bas_patch:ammo_check	_with_EFT_repos_BAS_patches_and_ammo_check	Mags Redux
-https://www.moddb.com/addons/start/224769	Patch Glowstick+Eft reposition	0	Glowsticks position
-https://www.moddb.com/addons/start/225029	UMP_Reanimation:UMP_Reanimation\[HUDFOV 0.6] EFT Repose	_with_EFT_reposition	UMP Reanimation
-https://www.moddb.com/addons/start/225217	0	0	Companions carry weight tweak
+https://www.moddb.com/addons/start/224977	Lsz\2_Addons\2_Lsz_Menu_Dialogs	_alternative_dialog_UI	Lsz dialogs
+
+
 G.A.M.M.A. Add-ons
