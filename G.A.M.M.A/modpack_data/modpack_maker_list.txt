@@ -126,7 +126,6 @@ https://www.moddb.com/addons/start/204482	0	0	He is with me
 https://www.moddb.com/addons/start/218478	Oni's Tales From the Zone	0	Oni's Tale Loading Screens
 https://www.moddb.com/addons/start/210450	Talk to Everyone:Suppressor Changes:More Surrenders + Faster Execute:Longer NPC Loot Range:Less NPC Jamming:Higher Wound Percent:Companions dont blow Disguises:Remove Mutant AutoAim	0	Modular Tweaks
 https://www.moddb.com/addons/start/218608	BoltBeGone:BoltManager:CharacterNameSaves:CrashesToRiches\scripts:FastTransfer:GeigerHush:KeepBolts:LogFixDefaultControls:NoInventoryCloseDisassembly:ReadWatch:SkinningWithSpace:StatsDisplay:TotalWeights:UnloadAll	0	Nitpickers Modpack
-https://www.moddb.com/addons/start/212677	Quick Companion Teleport	0	Quick Companion Teleport
 https://www.moddb.com/addons/start/216293	0	0	TB New Safe Zones
 https://www.moddb.com/addons/start/214285	0	0	TB Companions no headlamps in Stealth
 https://www.moddb.com/addons/start/213901	0	0	Toggle Scope
