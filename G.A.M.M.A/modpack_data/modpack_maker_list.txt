@@ -49,6 +49,7 @@ https://github.com/ahuyn/anomaly-exo/archive/refs/tags/latest.zip	anomaly-exo-la
 https://github.com/ahuyn/anomaly-exo/archive/refs/tags/latest.zip	anomaly-exo-latest\exo servo patch	_ExoServomotorSounds_patch	Powered Exos
 https://www.moddb.com/addons/start/213840	0	0	ZCP
 https://www.moddb.com/addons/start/219214	21 game\CORE	0	Black Jack
+https://www.moddb.com/addons/start/208861	Dux's Innumerable Character Kit/Dux's Innumerable Character Kit - Blackjack Patch	_Blackjack_patch	DICK BJ patch
 https://www.moddb.com/addons/start/223861	0	0	Haruka Skill System
 https://www.moddb.com/addons/start/207876	0	0	Disable Burnt Fuzz
 https://www.moddb.com/addons/start/211466	main	0	Tougher important NPCs and companions
