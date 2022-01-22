@@ -6,7 +6,6 @@ https://www.moddb.com/addons/start/208786	Anomaly Radios Extended - 1.5.1	0	Anom
 https://www.moddb.com/addons/start/209799	0	0	EFTAimRattle
 https://www.moddb.com/addons/start/212035	EFT Jump and Land SFX - HarukaSai	0	EFTJump
 https://www.moddb.com/addons/start/214982	USEC voice lines replace for Mercs - Definitive edition	0	EFTMercEnglish
-https://www.moddb.com/addons/start/215063	BEAR voice lines replacement for Duty	0	BEAR Voice lines for Duty
 https://www.moddb.com/addons/start/210999	Exo Servo Sounds v 1.4\!Normal version	0	ESS
 https://www.moddb.com/addons/start/211741	General Fire Mode Switcher Sound	0	Fire Mode Switcher
 https://www.moddb.com/addons/start/208267	[1.1.0] Grok's Better Sound for Anomaly 1.5.1\bin	0	Grok better sound
@@ -43,7 +42,6 @@ https://www.moddb.com/addons/start/217738	Camera Reanimation Project - I.N.E.R.T
 Gameplay
 https://www.moddb.com/addons/start/210626	0	0	BountySquadsExtended
 https://www.moddb.com/addons/start/207498	Stealth_2.0	0	Stealth
-https://www.moddb.com/addons/start/207498	(Patch) Death Animations	_Death_animations	Stealth
 https://www.moddb.com/addons/start/201679	0	0	OutfitsAffectsMovespeed
 https://github.com/ahuyn/anomaly-exo/archive/refs/tags/latest.zip	anomaly-exo-latest	0	Powered Exos
 https://github.com/ahuyn/anomaly-exo/archive/refs/tags/latest.zip	anomaly-exo-latest\exo servo patch	_ExoServomotorSounds_patch	Powered Exos
@@ -146,7 +144,6 @@ https://github.com/ahuyn/anomaly-wpo/archive/refs/tags/latest.zip	anomaly-wpo-la
 https://www.moddb.com/addons/start/211552	v2.5Crafting_With_MultiUse_Items_Fix + Patches\Main	0	Fixed Crafting with Multi-Use Items
 https://www.moddb.com/addons/start/211552	v2.5Crafting_With_MultiUse_Items_Fix + Patches\Main + Weapon Parts Overhaul Patch	_WPO_patch	Fixed Crafting with Multi-Use Items
 https://www.moddb.com/addons/start/221624	Disassembly Chance Tweak	0	Adjust Part Scavenging Chance
-https://www.moddb.com/addons/start/221624	WPO Patch	_WPO_patch	Adjust Part Scavenging Chance
 https://www.moddb.com/addons/start/218205	Keep Crafting Window Open	0	Keep Crafting Window Opened
 https://www.moddb.com/addons/start/219778	Prefer Best Disassembly Tool	0	Prefer Best Disassembly Tool
 https://github.com/ahuyn/anomaly-compilation/archive/refs/tags/latest.zip	anomaly-compilation-latest\ammo maker:anomaly-compilation-latest\ammo maker\no recipes mode	_ammo_maker	Arti Ammo Maker
@@ -208,8 +205,10 @@ https://www.moddb.com/addons/start/219570	The_G36_Pack NPC Files_DLTX	_g36_pack_
 https://www.moddb.com/addons/start/219570	Toolkit Remap_DLTX	_toolkit_remap	DLTX Minimodpack
 Optional
 https://www.moddb.com/addons/start/218608	NahMusic	_Nah_music	Disables Music in game but not in main menu
+https://www.moddb.com/addons/start/215063	BEAR voice lines replacement for Duty	0	BEAR Voice lines for Duty
 https://www.moddb.com/addons/start/209836	CR3PIS_ICONS\MAIN\1A_VANILLA_MODELS:CR3PIS_ICONS\PATCHES\1_NEW_AMMO_ICONS_FOR_GBOOBS:CR3PIS_ICONS\PATCHES\1_NEW_AMMO_ICONS_FOR_GBOOBS\1B_TEXT	0	Cr3pis Icon Pack
 https://www.moddb.com/addons/start/209836	CR3PIS_ICONS\PATCHES\2_BAS_PATCH	_BAS_Patch_icons_no_text	Cr3pis icons without text
+https://www.moddb.com/addons/start/207498	(Patch) Death Animations	_Death_animations	Stealth
 https://www.moddb.com/addons/start/223090	[00 B. HD Icons + Indicators (Vanilla)]	0	Maids HD icons
 https://www.moddb.com/addons/start/212310	experimental_ old and new ammo merge	0	Old to ammo to new ammo converter
 https://www.moddb.com/addons/start/215257	0	0	Minecraft Respawn
@@ -218,6 +217,4 @@ https://www.moddb.com/addons/start/224324	0	0	Trader Destockifier
 https://www.moddb.com/addons/start/184490	Trader Overhaul (Main Folder)	0	Trader Overhaul
 https://www.moddb.com/addons/start/224947	eft reposition patch:bas_patch:ammo_check	_with_EFT_repos_BAS_patches_and_ammo_check	Mags Redux
 https://www.moddb.com/addons/start/224977	Lsz\2_Addons\2_Lsz_Menu_Dialogs	_alternative_dialog_UI	Lsz dialogs
-
-
 G.A.M.M.A. Add-ons
