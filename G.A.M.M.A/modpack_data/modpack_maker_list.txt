@@ -34,6 +34,7 @@ https://www.moddb.com/addons/start/216034	0	0	TB Fairer Thermal Anomalies
 https://www.moddb.com/addons/start/208861	Dux's Innumerable Character Kit:Dux's Innumerable Character Kit\Dux's Innumberable Character Kit - BaS Patch	_with_BAS_patch	DICK
 https://www.moddb.com/addons/start/222685	addons\UNISG Overhaul:addons\SEVA Glass Variety	0	Fixed Vanilla Models and Textures
 https://www.moddb.com/addons/start/226174	0	0	Yohji persistant weathers
+https://www.moddb.com/addons/start/224866	0	0	Blood decals (need to patch system.ltx)
 Animations
 https://www.moddb.com/addons/start/213263	REMADE ANIMATIONS\remade_animations.3\remade animations	0	RemadeAnimations
 https://www.moddb.com/addons/start/209819	0	0	FDDA
@@ -191,6 +192,7 @@ https://www.moddb.com/addons/start/219923	ShaderDrivenScopes - BaS Patch	_BaS_pa
 https://www.moddb.com/addons/start/223134	Beef's NVGs	0	Beef's NVG
 https://www.moddb.com/addons/start/223134	Beef's NVGs - Patch (ES AND SSR)	_ES_and_SSR_patches	Beef's NVG
 https://www.moddb.com/addons/start/208407	cinematicvfx3.5-upd1.1\00.CinematicVFX3.5UPD1.1 - Core	0	CVFX
+https://www.moddb.com/addons/start/226999	Blood of the Zone\Blood of the Zone - Standalone(Vanilla):Blood of the Zone\BOTZ - Cinematic VFX\Gamedata	_with_CVFX_patch	Blood of the Zone
 DLTX
 https://www.moddb.com/addons/start/219570	Bigger Surrender Chance_DLTX	_bigger_surrender_chance	DLTX Minimodpack
 https://www.moddb.com/addons/start/219570	Food_Drugs_and_Drinks_EXTRA_ANIMATIONS_DLTX	_FDDA_extra_animations	DLTX Minimodpack
